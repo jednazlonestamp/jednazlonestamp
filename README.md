@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <b>BS Cybersecurity Major in Cloud Security</b><br>
-  Ethical Hacker • Security Researcher • Developer
+  Ethical Hacker • Security Researcher • Software Engineer • Full-stack Developer
 </p>
 
 <p align="center">
