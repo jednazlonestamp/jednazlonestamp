@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jednazlonestamp&label=Profile%20views&color=0e75b6&style=flat" 
+       alt="GitHub Profile Views" 
+       style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+</p>
 <h1 align="center">Jednaz Lonestamp</h1>
 
 <p align="center">
