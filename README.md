@@ -42,6 +42,16 @@ Passionate about building secure and scalable applications.
 
 ---
 
+<p align="center">
+  <!--[![committers.top badge](https://user-badge.committers.top/bosnia_and_herzegovina/jednazlonestamp.svg)](https://user-badge.committers.top/bosnia_and_herzegovina/jednazlonestamp)
+  [![committers.top badge](https://org-badge.committers.top/bosnia_and_herzegovina/ORGNAME.svg)](https://org-badge.committers.top/bosnia_and_herzegovina/ORGNAME)
+  -->
+  <img src="https://user-badge.committers.top/bosnia_and_herzegovina/jednazlonestamp.svg">
+  <img src="https://org-badge.committers.top/bosnia_and_herzegovina/BlackBlazent.svg">
+</p>
+
+---
+
 <h2 align="center">Favorite Languages</h2>
 
 <p align="center">
